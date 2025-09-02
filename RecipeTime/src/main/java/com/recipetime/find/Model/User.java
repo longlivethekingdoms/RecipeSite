@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
-public class Users {
+public class User {
 	String userID;
 	String userPW;
 	String nickname;
